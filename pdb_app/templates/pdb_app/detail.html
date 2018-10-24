@@ -1,0 +1,18 @@
+{% extends 'pdb_app/base.html' %}
+{% block title %}{{item.name}}{% endblock title %}
+{% block pagetitle %}{{item.name}}{% endblock pagetitle %}
+{% block description %}{{item.description}}{% endblock description %}
+
+{% block content %}
+    {% if item.image != None %}
+    <div class="row center">
+        <img class="responsive-img" src="{{ item.image.url }}" alt="Logo">
+    </div>
+    {% endif %}
+
+    Category: {{ item.category }}
+
+    <div class="row center">
+        <a href="{% url 'index' %}" class="waves-effect waves-light btn-small">Back</a>
+    </div>
+{% endblock content %}
