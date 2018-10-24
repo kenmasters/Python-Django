@@ -61,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pdb_app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="309">
+              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding>
                 <marker date="1540403763428" expanded="true" signature="60:247" ph="..." />
                 <marker date="1540403763428" expanded="true" signature="120:201" ph="..." />
@@ -167,6 +167,9 @@
       <find>MEDIA</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -212,6 +215,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -222,29 +226,6 @@
           <expand>
             <path>
               <item name="programming_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_database" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_database" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_database" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="programming_database" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_database" type="462c0819:PsiDirectoryNode" />
               <item name="programming_database" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -353,20 +334,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17342342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17342342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.60655737" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.3295082" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.49016392" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.49016392" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.33934426" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -536,8 +518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pdb_app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="309">
+          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding>
             <marker date="1540403763428" expanded="true" signature="60:247" ph="..." />
             <marker date="1540403763428" expanded="true" signature="120:201" ph="..." />
